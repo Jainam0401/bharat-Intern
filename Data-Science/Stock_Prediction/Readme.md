@@ -1,4 +1,4 @@
-# LSTM Stock Forecasting from Microsoft
+# LSTM Stock Prediction from Microsoft
 
 This Python notebook shows how to anticipate the stock price of Microsoft (MSFT) based on historical data using Long Short-Term Memory (LSTM) neural networks. TensorFlow and Pandas libraries are used in the notebook for modelling and data processing.
 
